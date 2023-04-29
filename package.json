@@ -7,10 +7,16 @@
     "typecheck": "tsc"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.8",
+    "@emotion/server": "^11.10.0",
+    "@mantine/core": "^6.0.9",
+    "@mantine/hooks": "^6.0.9",
+    "@mantine/remix": "^6.0.9",
     "@remix-run/node": "^1.15.0",
     "@remix-run/react": "^1.15.0",
     "@remix-run/vercel": "^1.15.0",
     "@supabase/supabase-js": "^2.21.0",
+    "@tabler/icons-react": "^2.17.0",
     "@vercel/node": "^2.10.3",
     "isbot": "^3.6.8",
     "qs": "^6.11.1",
